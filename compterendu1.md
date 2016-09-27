@@ -14,7 +14,7 @@ synchronisation du repertoire github avec le dossier sur la machine virtuelle *f
 
 #Tumblr  
 
-modifier un Tumblr - Apparence  
+modifier un Tumblr = Apparence  
 Titre --> <title> {Title}  
 description --> <meta> {MetaDescription}  
 avatar => favicon (20) {Favicon}  
