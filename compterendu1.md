@@ -5,10 +5,10 @@ Creation du fichier *readme.md*
 synchronisation du repertoire github avec le dossier sur la machine virtuelle *flatfile*
 à l'aide de commandes sur le terminal  
 
-*Commandes  
- *git add 
- *git commit -a 
- *git config 
+* Commandes  
+ * git add 
+ * git commit -a 
+ * git config 
 
 
 
