@@ -10,12 +10,9 @@ faucibus erat, vel ullamcorper erat. **_Aenean luctus sollicitudin ante, eu vari
 fermentum egestas. Cras lacinia metus ac diam condimentum placerat sed sit amet lacus._**
 
 - A
-  *a*
 - B
-  *b*
 - C
-  *c*
 
 [Visit GitHub!](www.github.com)
 
-!https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/leisa_christmas_false_color.png
+!(https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/leisa_christmas_false_color.png)
