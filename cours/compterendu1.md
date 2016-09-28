@@ -1,3 +1,6 @@
+#GitHub
+Site d'hébergement de données de projets utilisant la technologie git.
+
 #Initialisation GitHub  
 ##Commandes de base  
 
@@ -6,9 +9,9 @@ synchronisation du repertoire github avec le dossier sur la machine virtuelle *f
 à l'aide de commandes sur le terminal  
 
 * Commandes  
- * git add 
- * git commit -a 
- * git config 
+ * git add
+ * git commit -a
+ * git config
 
 
 
