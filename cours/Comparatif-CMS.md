@@ -16,7 +16,7 @@
 
 CMS          | Langage utilisé  | Année création
 ------------ | ---------------- | --------------
-Wordpress | PHP |
-DotClear | PHP |
-Spip | PHP |
-Drupal | PHP |
+Wordpress | PHP | 2003
+DotClear | PHP | 2002
+Spip | PHP | 2001
+Drupal | PHP | 2001
