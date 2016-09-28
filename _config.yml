@@ -1,2 +1,1 @@
-key: value.
-title: Site sur le TUNING 
+<title>{{site.title}}</title>
