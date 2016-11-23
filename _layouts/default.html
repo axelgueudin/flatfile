@@ -6,7 +6,8 @@
   <body>
 {% include header.html %}
   <nav>
-    {% assign pages = site.html_pages  %}
+    {% assign pages = site.html_pages | reversed %}
+
                     {% for p in pages %}
                         <li>
                             <a href="{{ p.url }}">
@@ -17,6 +18,14 @@
   <nav>
   <main>
   {{content}}
+
+  {% for files in site.cours %}
+  <li>
+      <a href="{{ files.url }}">
+          {{ files.label }}
+      </a>
+  </li>
+  {% endfor %}
   </main>
 {% include footer.html %}
   </body>
