@@ -1,3 +1,7 @@
+---
+layout: cours
+title: CMS
+---
 #Liste des CMS
 
 * Wordpress
