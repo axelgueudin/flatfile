@@ -6,12 +6,26 @@
   <body>
 {% include header.html %}
   <nav>
-      <a href="index.html">Accueil</a>
-      <a href="about.html">A propos</a>
-      <a href="contact.html">Contact</a>
+    {% assign pages = site.html_pages | reversed %}
+
+                    {% for p in pages %}
+                        <li>
+                            <a href="{{ p.url }}">
+                                {{ p.title }}
+                            </a>
+                        </li>
+                    {% endfor %}
   <nav>
   <main>
   {{content}}
+
+  {% for files in site.cours %}
+  <li>
+      <a href="{{ files.url }}">
+          {{ files.label }}
+      </a>
+  </li>
+  {% endfor %}
   </main>
 {% include footer.html %}
   </body>
