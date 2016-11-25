@@ -1,3 +1,7 @@
+---
+layout: cours
+title: CompteRendu2
+---
 #COURS 19/10
 ##Installation de Jekyll (Ruby)
 
