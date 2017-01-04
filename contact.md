@@ -4,7 +4,7 @@ title: Contact
 ---
 ***Mail*** : walter@white.bluesky
 
-<div>
+<ul>
 {% for partners in site.data.partners %}
   <li>
     <a href="https://github.com/{{ partners.github }}">
@@ -12,4 +12,4 @@ title: Contact
     </a>
   </li>
 {% endfor %}
-</div>
+</ul>

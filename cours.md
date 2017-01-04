@@ -4,8 +4,8 @@ title: Cours
 ---
 <div>
 {% for cours in site.cours %}
-	<div class="cours">
-		<h2><a href="{{ cours.url }}">{{ cours.title }}</a></h2>
-	</div>
+  <div class="cours">
+    {{ cours.content }}
+  </div>
 {% endfor %}
 </div>
