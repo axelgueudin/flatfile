@@ -2,7 +2,7 @@
 layout: cours
 title: CMS
 ---
-#Liste des CMS
+# Liste des CMS
 
 * Wordpress
 * Joomla
@@ -12,11 +12,11 @@ title: CMS
 * phpBB
 * DotClear
 
-#Définition
+# Définition
 
 > Un CMS (Content Management System) ou système de gestion de contenu en français est une famille de logiciels destinés à la conception et à la mise à jour dynamique de sites Web ou d'applications multimédia.
 
-#Tableau comparatif
+# Tableau comparatif
 
 CMS          | Langage utilisé  | Année création
 ------------ | ---------------- | --------------

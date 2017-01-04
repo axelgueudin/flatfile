@@ -2,11 +2,11 @@
 layout: cours
 title: CompteRendu1
 ---
-#GitHub
+# GitHub
 Site d'hébergement de données de projets utilisant la technologie git.
 
-#Initialisation GitHub  
-##Commandes de base  
+# Initialisation GitHub  
+## Commandes de base  
 
 Creation du fichier *readme.md*  
 synchronisation du repertoire github avec le dossier sur la machine virtuelle *flatfile*
@@ -19,7 +19,7 @@ synchronisation du repertoire github avec le dossier sur la machine virtuelle *f
 
 
 
-#Tumblr  
+# Tumblr  
 
 modifier un Tumblr Apparence    
 Titre : <title> {Title}  

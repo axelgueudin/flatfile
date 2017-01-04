@@ -1,3 +1,7 @@
+---
+layout: Cours
+title: cours4
+---
 # Cours n°4
 
 ## Assets

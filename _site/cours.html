@@ -1,94 +1,194 @@
 <!DOCTYPE html>
-<html>
-  <head>
-<title>Jekyll c'est la vie !</title>
-  </head>
+<html class="no-js" lang="fr">
 
-  <body>
-    <header>
-<h1>Documentation</h1>
-<h2>So WIP</h2>
-    </header>
+<head>
+  <meta charset="UTF-8">
+  <title>VIVE LE TUNING ET VIN DIESEL. : Cours </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/assets/css/style.css" media="all">
+</head>
+
+
+<body>
+  <header>
+  <div class="wrapper">
+    <h1>Documentation</h1>
+    <h2>WIP</h2>
+  </div>
+</header>
 
   <nav>
     
+    <ul>
+  
+    <li>
+      <a href="/about.html">A propos</a>
+    </li>
+  
+    <li>
+      <a href="/blog.html">Blog</a>
+    </li>
+  
+    <li>
+      <a href="/contact.html">Contact</a>
+    </li>
+  
+    <li>
+      <a href="/cours.html">Cours</a>
+    </li>
+  
+    <li>
+      <a href="/">Accueil</a>
+    </li>
+  
+  </ul>
 
-                    
-                        <li>
-                            <a href="/about.html">
-                                A propos
-                            </a>
-                        </li>
-                    
-                        <li>
-                            <a href="/blog.html">
-                                Blog
-                            </a>
-                        </li>
-                    
-                        <li>
-                            <a href="/contact.html">
-                                Contact
-                            </a>
-                        </li>
-                    
-                        <li>
-                            <a href="/cours.html">
-                                Cours
-                            </a>
-                        </li>
-                    
-                        <li>
-                            <a href="/">
-                                Accueil
-                            </a>
-                        </li>
-                    
-  <nav>
-  <main>
-  <h1> Cours </h1>
+  </nav>
+
+  <main class="wrapper">
+
+    <h1> Cours </h1>
 
 <div>
 
-	<div class="cours">
-		<h2><a href="/cours/Comparatif-CMS.html">CMS</a></h2>
-	</div>
+  <div class="cours">
+    <h1 id="liste-des-cms">Liste des CMS</h1>
 
-	<div class="cours">
-		<h2><a href="/cours/compterendu1.html">CompteRendu1</a></h2>
-	</div>
+<ul>
+  <li>Wordpress</li>
+  <li>Joomla</li>
+  <li>Drupal</li>
+  <li>Magento</li>
+  <li>Spip</li>
+  <li>phpBB</li>
+  <li>DotClear</li>
+</ul>
 
-	<div class="cours">
-		<h2><a href="/cours/compterendu1910.html">CompteRendu2</a></h2>
-	</div>
+<h1 id="dfinition">Définition</h1>
+
+<blockquote>
+  <p>Un CMS (Content Management System) ou système de gestion de contenu en français est une famille de logiciels destinés à la conception et à la mise à jour dynamique de sites Web ou d’applications multimédia.</p>
+</blockquote>
+
+<h1 id="tableau-comparatif">Tableau comparatif</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>CMS</th>
+      <th>Langage utilisé</th>
+      <th>Année création</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Wordpress</td>
+      <td>PHP</td>
+      <td>2003</td>
+    </tr>
+    <tr>
+      <td>DotClear</td>
+      <td>PHP</td>
+      <td>2002</td>
+    </tr>
+    <tr>
+      <td>Spip</td>
+      <td>PHP</td>
+      <td>2001</td>
+    </tr>
+    <tr>
+      <td>Drupal</td>
+      <td>PHP</td>
+      <td>2001</td>
+    </tr>
+  </tbody>
+</table>
+
+  </div>
+
+  <div class="cours">
+    <h1 id="github">GitHub</h1>
+<p>Site d’hébergement de données de projets utilisant la technologie git.</p>
+
+<h1 id="initialisation-github">Initialisation GitHub</h1>
+<p>##Commandes de base</p>
+
+<p>Creation du fichier <em>readme.md</em><br />
+synchronisation du repertoire github avec le dossier sur la machine virtuelle <em>flatfile</em>
+à l’aide de commandes sur le terminal</p>
+
+<ul>
+  <li>Commandes</li>
+  <li>git add</li>
+  <li>git commit -a</li>
+  <li>git config</li>
+</ul>
+
+<h1 id="tumblr">Tumblr</h1>
+
+<p>modifier un Tumblr Apparence  <br />
+Titre : <title> {Title}  
+description : <meta /> {MetaDescription}   
+avatar : favicon (20) {Favicon}  
+Font ) {TitleFont}  
+Couleur ) {Color}  
+Bannière</title></p>
+
+  </div>
+
+  <div class="cours">
+    <h1 id="cours-1910">COURS 19/10</h1>
+<p>##Installation de Jekyll (Ruby)</p>
+
+<p>Pour voir son site statique sur un serveur généré en local, sans passer par Github Pages.</p>
+
+<p><em>jekyll serve</em> : permet de générer le serveur.</p>
+
+  </div>
+
+  <div class="cours">
+    <h1 id="cours-n4">Cours n°4</h1>
+
+<h2 id="assets">Assets</h2>
+<p>Créer un dossier “assets” à la racine du site dans lequel on créé les dossiers “img”, “css”, “favicon”, “fonts”, “scripts”.
+Format scss : feuilles de style dans lesquelle on peut créer des variables et faire des boucles.</p>
+
+<p>Les fichiers scss doivent avoir l’en-tête suivant :
+  —
+  —</p>
+
+<p>Installer sass sur linux :
+&gt;sudo su -c “gem install sass”</p>
+
+<h3 id="flexbos-et-css-grid">Flexbos et CSS Grid</h3>
+<p>Flexbox : Module CSS permettant de distribuer l’espace entre les items et les containers plus facilement</p>
+
+<p>CSS Grid : Système de layouts permettant de gérer les grilles en css</p>
+
+<p>Flexbox et CSS Grid se complètent l’un l’autre.</p>
+
+<h2 id="bdd-yml">BDD YML</h2>
+<p>Les fichiers yml peuvent servir à stocker des données comme une bdd (fichier partners.yml) pour ensuite être appelé sur une autre page.</p>
+
+<h2 id="format-csv">Format CSV</h2>
+
+<p>Format de représentations de données tabulaires</p>
+
+<h2 id="api">API</h2>
+
+<p>Permet de communiquer entre différents dépôts de données, renvoie des infos sous forme de JSON.</p>
+
+  </div>
 
 </div>
 
 
-
-  
-  <li>
-      <a href="/cours/Comparatif-CMS.html">
-          
-      </a>
-  </li>
-  
-  <li>
-      <a href="/cours/compterendu1.html">
-          
-      </a>
-  </li>
-  
-  <li>
-      <a href="/cours/compterendu1910.html">
-          
-      </a>
-  </li>
-  
   </main>
-    <footer>
+
+      <footer>
 <p>made with &starf; by Axel.</p>
     </footer>
 
-  </body>
+</body>
+
 </html>
