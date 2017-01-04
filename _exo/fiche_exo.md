@@ -2,9 +2,9 @@
 
 ## Logo :
 
-## Nom : 
+## Nom : MyLand
 
-## Baseline :
+## Baseline : Ma dose d'espace vital
 
 ## 10 - 15 produits
 Titre
@@ -14,3 +14,5 @@ Prix
 Description
 
 Visuels
+
+---

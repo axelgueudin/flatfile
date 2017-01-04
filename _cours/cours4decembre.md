@@ -33,23 +33,7 @@ masque africains
 ---
 ## Criteres
 
-Référencement
-
-Prix : abo + transactions
-
-Moyen de paiement
-
-Volume
-
-Stockage
-
-Retour
-
-Assurance
-
-Mode de livraison
-
-Multilangue
+Référencement, Prix : abo + transaction, Moyen de paiement, Volume, Stockage, Retour, Assurance, Mode de livraison, Multilangue.
 
 ---
 ## PRODUITS
