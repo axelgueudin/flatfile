@@ -1,9 +1,10 @@
-key: value.
+---
 title: MyLand
-url: 'https://snipcart.github.io/snipcart-jamstack'
-snipcart_api_key: ''
 timezone: UTC
 collections:
+  cours:
+    title: Cours
+    output: true
   posts:
     title: Posts
     output: true
@@ -12,8 +13,6 @@ collections:
     output: true
   uploads:
     title: Uploads
-    output: true
-  cours:
     output: true
 defaults:
 - scope:
@@ -32,4 +31,7 @@ defaults:
     type: pages
   values:
     layout: page
+key: value.
+url: https://snipcart.github.io/snipcart-jamstack
+snipcart_api_key: ''
 permalink: pretty

@@ -1,7 +1,8 @@
 ---
-layout: cours
 title: CompteRendu1
+layout: cours
 ---
+
 # GitHub
 Site d'hébergement de données de projets utilisant la technologie git.
 

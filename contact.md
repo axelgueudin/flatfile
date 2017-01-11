@@ -1,7 +1,8 @@
 ---
-layout: page
 title: Contact
+layout: page
 ---
+
 ***Mail*** : walter@white.bluesky
 
 <ul>
