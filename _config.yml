@@ -11,9 +11,6 @@ collections:
   products:
     title: Products
     output: true
-  uploads:
-    title: Uploads
-    output: true
 defaults:
 - scope:
     path: ''
@@ -32,6 +29,6 @@ defaults:
   values:
     layout: page
 key: value.
-url: https://snipcart.github.io/snipcart-jamstack
+url: flatfile/
 snipcart_api_key: ''
 permalink: pretty
