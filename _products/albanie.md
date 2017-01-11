@@ -7,4 +7,6 @@ image: "../assets/img/albanie.jpg"
 layout: productdetails
 ---
 
-Petit pays pérave dans les balkans. 
+![albanie.jpg](/uploads/albanie.jpg)
+
+Petit pays pérave dans les balkans.
