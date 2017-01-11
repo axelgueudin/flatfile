@@ -1,5 +1,5 @@
 ---
-layout: Cours
+layout: cours
 title: cours4
 ---
 # Cours n°4

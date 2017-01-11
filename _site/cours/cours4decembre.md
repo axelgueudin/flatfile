@@ -1,8 +1,19 @@
-#SOLUTIONS
-##Shop
+# CONSIGNES
+#### Provisoire
+---
+10 produits
+
+masque africains
+
+5 pays différents
+
+---
+# SOLUTIONS
+---
+## Shop
 
 * BigCommerce
-* Wix
+* Wix --> GROSSE MERDE
 * WiziShop
 * Jimdo
 * Wifeo
@@ -10,8 +21,7 @@
 * Weebly
 * 42Store
 
-
-###SaaS shop
+### SaaS shop
 
 1. Big Cartel (free 5 products ; 10/mois)
 2. Goodsie (25/mois)
@@ -20,43 +30,50 @@
 5. Shopify (29/mois)
 6. Magento Go (89/mois)
 
-##Criteres
+---
+## Criteres
 
-Référencement
-Prix : abo + transactions
-Moyen de paiement
-Volume
-Stockage
+Référencement, Prix : abo + transaction, Moyen de paiement, Volume, Stockage, Retour, Assurance, Mode de livraison, Multilangue.
 
-
-##PRODUITS
+---
+## PRODUITS
 
 produit : masque zebre
+
 img : https://images-na.ssl-images-amazon.com/images/I/81v-gtepAML._SY550_.jpg
 
 produit :
+
 img : https://images-na.ssl-images-amazon.com/images/I/41pLbSiyZxL.jpg
 
 produit :
+
 img : https://images-na.ssl-images-amazon.com/images/I/41qXYMKx0cL.jpg
 
 produit :
+
 img : https://images-na.ssl-images-amazon.com/images/I/81S7VojnXZL._SL1500_.jpg
 
 produit :
+
 img :
 
 produit :
+
 img :
 
 produit :
+
 img :
 
 produit :
+
 img :
 
 produit :
+
 img :
 
 produit :
+
 img :

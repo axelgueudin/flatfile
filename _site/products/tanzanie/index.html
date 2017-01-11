@@ -6,11 +6,19 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Accueil</title>
+  <title>MyLand</title>
 
   <link rel="stylesheet" href="https://snipcart.github.io/snipcart-jamstack/assets/css/style.css" media="all">
 
   <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
+  
+    <script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js"
+    data-api-key=""
+    id="snipcart">
+</script>
+
+<link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet" type="text/css" />
 
   
 
@@ -76,10 +84,26 @@
 
   <main class="wrapper">
 
-    <h1 id="breaking-bad">Breaking Bad</h1>
+    <div class="product-details">
+  <img src="../assets/img/tanzanie.jpg" alt="Tanzanie" class="thumbnail"/>
+  <div class="product-description">
+    <p>Tanzanie</p>
 
-<p>A business big enough that it could be listed on the NASDAQ goes belly up. Disappears! It ceases to exist without me. No, you clearly don t know who you re talking to, so let me clue you in. I am not in danger, Skyler.
-I AM the danger! A guy opens his door and gets shot and you think that of me? No. I am the one who knocks! .</p>
+    <p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ullamcorper ante non vehicula eleifend.
+Phasellus ut feugiat tellus, vitae malesuada mi. Sed placerat ultrices enim, id fermentum ante tincidunt nec.
+Nulla ut mi bibendum, sodales ex ut, tempor odio. Mauris finibus elit eget ornare efficitur. Fusce a mauris vitae lorem.</p>
+</p>
+
+    <button class="snipcart-add-item"
+      data-item-name="Tanzanie"
+      data-item-id="TZ"
+      data-item-image="../assets/img/tanzanie.jpg"
+      data-item-url="https://snipcart.github.io/snipcart-jamstack/products/tanzanie/"
+      data-item-price="1">
+      Buy it for 1 $
+    </button>
+  </div>
+</div>
 
   </main>
 
