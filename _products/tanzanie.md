@@ -3,7 +3,7 @@ title: Tanzanie
 name: Tanzanie
 price: 1
 sku: TZ
-image: "../assets/img/tanzanie.jpg"
+image: "/img/tanzanie.jpg"
 layout: productdetails
 ---
 

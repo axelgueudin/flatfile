@@ -3,7 +3,7 @@ title: Kirghizsthan
 name: Kirghizsthan
 price: 200
 sku: KH
-image: "../assets/img/kirghizsthan.jpg"
+image: "/img/kirghizsthan.jpg"
 layout: productdetails
 ---
 

@@ -3,7 +3,7 @@ title: Groenland
 name: Groenland
 price: 9999
 sku: GL
-image: "../assets/img/groenland.jpg"
+image: "/img/groenland.jpg"
 layout: productdetails
 ---
 

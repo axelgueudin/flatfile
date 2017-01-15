@@ -3,7 +3,7 @@ title: Nouvelleirlande
 name: Nouvelle Irlande
 price: 2
 sku: NI
-image: "../assets/img/nouvelle irlande.jpg"
+image: "/img/nouvelle irlande.jpg"
 layout: productdetails
 ---
 

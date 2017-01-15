@@ -3,7 +3,7 @@ title: Belgique
 name: Belgique
 price: 2
 sku: BL
-image: "../assets/img/belgique.jpg"
+image: "/img/belgique.jpg"
 layout: productdetails
 ---
 
