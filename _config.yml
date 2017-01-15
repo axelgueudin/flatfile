@@ -33,5 +33,5 @@ defaults:
     layout: page
 key: value.
 baseurl: github.io/flatfile/
-snipcart_api_key: 'https://app.snipcart.com/api'
+snipcart_api_key: https://app.snipcart.com/api
 permalink: pretty
