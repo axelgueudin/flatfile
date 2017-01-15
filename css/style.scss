@@ -3,6 +3,8 @@
 
 @charset "utf-8";
 
+
+
 // Our variables
 $base-font-family: Lato;
 $base-font-size:   22px;
@@ -40,10 +42,11 @@ $on-laptop:        800px;
     }
 }
 
-a {
-  text-decoration: none;;
-}
 
-ul, li {
-  list-style: none;
-}
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "base",
+        "layout",
+        "syntax-highlighting"
+;
