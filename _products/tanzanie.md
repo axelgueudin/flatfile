@@ -4,9 +4,7 @@ name: Tanzanie
 price: 1
 sku: TZ
 image: "/img/tanzanie.jpg"
-layout: productdetails
+layout: product
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ullamcorper ante non vehicula eleifend.
-Phasellus ut feugiat tellus, vitae malesuada mi. Sed placerat ultrices enim, id fermentum ante tincidunt nec.
-Nulla ut mi bibendum, sodales ex ut, tempor odio. Mauris finibus elit eget ornare efficitur. Fusce a mauris vitae lorem.
+Si tu creuse bien là-bas, tu peux peut-être trouver du pétrole. 100% garanti, 0% remboursé. J'atteste sur l'honneur que je vais acheter ce pays, t'as lu, t'as juré, t'achètes ! 
