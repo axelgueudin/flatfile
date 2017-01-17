@@ -33,5 +33,3 @@ defaults:
 key: value.
 snipcart_api_key: OTkzNDAzNGYtMmJmNi00MWM3LThlZjgtYWRkZWQ0ZjMwMmFkNjM2MjAxMTAxMDI0MjQ4MDY2
 permalink: pretty
-
-theme: jekyll-theme-cayman
